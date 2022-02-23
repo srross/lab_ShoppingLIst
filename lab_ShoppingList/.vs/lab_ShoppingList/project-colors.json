@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93cc6a8c-ff0c-4659-a2b1-afb386bb3f61": {
+      "ProjectGuid": "93cc6a8c-ff0c-4659-a2b1-afb386bb3f61",
+      "DisplayName": "lab_ShoppingList",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
