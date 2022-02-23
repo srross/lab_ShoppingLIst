@@ -55,12 +55,9 @@ while (addItem == "y" || tryAgain == "y")
     } 
 }
 
-
-
 Console.WriteLine();
 Console.WriteLine("ShoppingList:");
 Console.WriteLine("*************");
-//Console.Write(string.Join(",", shoppingList));
 
 foreach (var i in shoppingList)
 {
@@ -69,6 +66,5 @@ foreach (var i in shoppingList)
 }
 Console.WriteLine("---------------");
 Console.WriteLine($"Order total = {orderTotal}");
-
 
 Console.ReadLine();
